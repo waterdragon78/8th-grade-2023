@@ -10,6 +10,7 @@ make sure you have git, gcc, and make on your computer. Google how to install if
 3. run "cd 8th-grade-2023" WITHOUT PARENTHESES
 4. run "chmod +x configure" WITHOUT PARENTHESES
 5. run "./configure && make" WITHOUT PARENTHESES
-5a. NOTE: if you get an error that something isn't installed, google how to install it
+5a. NOTE: if you get an error that says something like "config.status: error: Something went wrong bootstrapping makefile fragments for automatic dependency tracking." run this instead, "./configure --disable-dependency-tracking && make". If this fails, you probably don't have a dependancy which you may have to install manually.
+5b. NOTE: if you get an error that something isn't installed, google how to install it
 6. run "./BLmural2023" WITHOUT PARENTHESES
 7. Read!
