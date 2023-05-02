@@ -1,2 +1,2 @@
 # 8th-grade-2023
-Lookit the README!!
+So uhh... Tysm for going to this URL!! If you don't know github, it's used for sharing and downloading code or programs. Very helpful for developers. Ive left some files, and I'll leave some instructions to install, and a script for it too. You're encouraged to try to build this yourself, but if you can't I'll leave some binaries in https://github.com/waterdragon78/8th-grade-2023/releases. Look up instructions on how to run! Sorry Windows users, they're only available for macOS and Linux. Maybe I'll change that! I'm not sure. Feel free to look through the code, you may want to specifically look through mural.c. Aaaaaaand yea! That's about all. Have fun!
