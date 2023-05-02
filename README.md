@@ -14,3 +14,13 @@ make sure you have git, gcc, and make on your computer. Google how to install if
 5b. NOTE: if you get an error that something isn't installed, google how to install it
 6. run "./BLmural2023" WITHOUT PARENTHESES
 7. Read!
+
+LAZY METHOD (GO COMPILE U LAZY PERSON)
+
+1. open terminal
+2. run "git clone https://github.com/waterdragon78/8th-grade-2023" WITHOUT PARENTHESES
+3. run "cd 8th-grade-2023" WITHOUT PARENTHESES
+4. run "chmod +x LazyMethod.sh" WITHOUT PARENTHESES
+5. run "./LazyMethod.sh" WITHOUT PARENTHESES
+
+(seriously tho, the whole point is to compile u lazy person, go do that)
